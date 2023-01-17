@@ -89,7 +89,7 @@ img{
 
 }
 
-#to-do-list{
+#to-do-list,#stone-paper-scissor{
     border-bottom: 4px solid hsl(201, 93%, 34%);
     border-radius: 10px;
     box-shadow: 0 0 5px hsl(201, 93%, 34%);
