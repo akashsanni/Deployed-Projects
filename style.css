@@ -92,6 +92,13 @@ img{
     
 
 }
+#password-generator{
+    border-bottom: 4px solid hsl(184, 92%, 43%);
+    border-radius: 10px;
+    box-shadow: 0 0 5px hsl(173, 95%, 34%);
+    
+
+}
 /* Animation */
 
 .pop-up{
